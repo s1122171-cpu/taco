@@ -30,14 +30,14 @@ position: static;
 	margin-top: 50px;
 	width: 100%;
 	height: auto;
-  max-width: 160px;
+  max-width: 300px;
 }
 
 .two-p {
   position: static;
 	margin-top: 8px;
   width: 100%;
-  max-width: 160px;
+  max-width: 300px;
   
 }
 
@@ -45,7 +45,7 @@ position: static;
   position: static;
 	margin-top: 10px;
   width: 100%;
-	max-width: 160px;
+	max-width: 300px;
 }
 	
 .links {
