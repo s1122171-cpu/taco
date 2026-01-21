@@ -76,7 +76,7 @@ a {
   background: #e83f22;
 		color: #fff;
 	}
-
+}
 
 footer {
 	display: flex；
@@ -84,4 +84,4 @@ footer {
     font-size: 5px;
 	margin-top: 200px;
 			}
-		}
+		
